@@ -1,0 +1,2 @@
+PRIVACY POLICY
+This service collects only the phone number and message content necessary to operate the SMS automation. Message content is processed to generate automated responses and is not sold, shared, or used for any other purpose. Message history is stored temporarily to provide conversation context and is not shared with third parties. Data is retained only as long as necessary to provide the service.
